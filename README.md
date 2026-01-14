@@ -113,11 +113,6 @@ Automatic payments increase convenience and reduce churn.
 
 ---
 
-## 🎤 Interview Explanation (Short)
-> “I analyzed telecom customer churn data using Python, identified key churn factors like contract type, pricing, tenure, and payment methods, and provided data-driven business recommendations to improve customer retention.”
-
----
-
 ## ✅ Conclusion
 This project demonstrates how data analytics can be used to understand customer behavior and support business decision-making through meaningful insights and visual analysis.
 
