@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis
 
-## 📌 Project Overview
+## Project Overview
 Customer churn means when customers stop using a company’s product or service.  
 This project analyzes telecom customer data to understand **why customers leave** and provides **business insights to reduce churn**.
 
@@ -8,14 +8,14 @@ The focus of this project is **data analysis and visualization**, not machine le
 
 ---
 
-## 🎯 Objective
+## Objective
 - Identify the main factors that cause customer churn  
 - Analyze customer behavior using data  
 - Provide simple and practical business recommendations  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -24,7 +24,7 @@ The focus of this project is **data analysis and visualization**, not machine le
 
 ---
 
-## 📂 Dataset
+## Dataset
 **Telco Customer Churn Dataset**  
 The dataset contains customer information such as:
 - Contract type  
